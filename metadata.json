@@ -1,0 +1,6 @@
+{
+  "name": "Nightmare Booking Agency",
+  "description": "კოშმარების დაჯავშნის სააგენტო - A high-end luxury parody booking platform to hire famous horror villains for absurd, non-violent daily tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
